@@ -1,0 +1,8 @@
+hogwarts:
+  key1: demo
+server:
+  port: 8082
+
+spring:
+  application:
+    name: hogwart-mini
